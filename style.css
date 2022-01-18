@@ -72,3 +72,13 @@ body {
     margin: 15px 0 7px;
     letter-spacing: 1px;
 }
+
+.pokemon .type-element {
+    color: #fff;
+    background: #eee;
+    border-radius: 3px;
+    margin: 15px 0 7px;
+    letter-spacing: 1px;
+    padding-right: 0.25em;
+    padding-left: 0.25em;
+}
